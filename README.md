@@ -131,3 +131,5 @@ Provide inventory recommendations, waste-risk assessments, and potential cost-sa
 <img width="1050" height="753" alt="Screenshot 2026-07-28 150906" src="https://github.com/user-attachments/assets/d0ef3b60-0781-417f-a45d-2e8f8cc93776" />
 
 # Project Structure
+
+<img width="717" height="377" alt="Screenshot 2026-07-29 112743" src="https://github.com/user-attachments/assets/61ef1a9c-309e-452b-803e-856607114261" />
